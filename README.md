@@ -36,3 +36,6 @@ The project code relies on the following major Python libraries:
 * `scikit-learn` (`sklearn`) [cite: 17]
 * `matplotlib` / `seaborn` [cite: 15, 598]
 * `imbalanced-learn` (`imblearn`) [cite: 607]
+
+* ## Disclaimer
+This project is for educational and research purposes only and is not intended for clinical use.
